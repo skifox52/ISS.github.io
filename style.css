@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  overflow: hidden;
+}
+
+#map {
+  width: 100vw;
+  height: 100vh;
+}
